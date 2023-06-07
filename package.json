@@ -21,7 +21,7 @@
     "@angular/platform-browser": "^13.0.0",
     "@angular/platform-browser-dynamic": "^13.0.0",
     "@angular/router": "^13.0.0",
-    "@angular/localize": "^13.0.0", 
+    "@angular/localize": "^13.4.0", 
     "d3": "^7.5.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^13.0.1",
