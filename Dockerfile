@@ -9,7 +9,7 @@ RUN npm run build
 
 FROM wurstbrot/dsomm-yaml-generation as yaml
 
-FROM nginx:alpine
+FROM nginx:1.25.4-alpine3.18
 
 RUN chown -R nginx:nginx /var/cache/nginx \
  && chown -R nginx:nginx /var/log/nginx \
